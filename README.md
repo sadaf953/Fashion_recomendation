@@ -4,8 +4,8 @@
 This Fashion Recommendation System is an innovative project that leverages data analysis and machine learning to provide personalized fashion recommendations.
 
 ## Project Screenshots
-![Image Manipulation using HR-VITON](./images/Image%20manipulation%20using%20HR-VITON.png) 
-![Most Profitable Brands](./images/profitable%20brands.png) 
+![Image Manipulation using HR-VITON](./images/HRVITON.png) 
+![Most Profitable Brands](./images/profitable.png) 
 ![Output](./images/output.png) 
 ![Data Table](./images/table.png)
 
