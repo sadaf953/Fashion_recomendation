@@ -4,10 +4,10 @@
 This Fashion Recommendation System is an innovative project that leverages data analysis and machine learning to provide personalized fashion recommendations.
 
 ## Project Screenshots
-![Image Manipulation using HR-VITON](/images/Image%20manuplication%20using%20HR-VITON.png)
-![Most Profitable Brands](/images/Output%20of%20the%20most%20profitable%20brands.png)
-![Output](/images/ouput.png)
-![Data Table](/images/table.png)
+![Image Manipulation using HR-VITON](images/Image%20manipulation%20using%20HR-VITON.png) <!-- Ensure this image is added to the images directory -->
+![Most Profitable Brands](images/Output%20of%20the%20most%20profitable%20brands.png) <!-- Ensure this image is added to the images directory -->
+![Output](images/output.png) <!-- Ensure this image is added to the images directory -->
+![Data Table](images/table.png)
 
 ## Features
 - Personalized fashion recommendations
@@ -54,5 +54,3 @@ python fashion-recomendation.py
 - Implement more advanced recommendation algorithms
 - Add web/mobile interface
 - Integrate real-time fashion trend analysis
-
-
